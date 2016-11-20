@@ -3,7 +3,7 @@ version:             0.1.0
 synopsis:            Command shell using FRP
 description:         Please see README.md
 homepage:            https://github.com/Ziphilt/shell#readme
-license:             GPL2
+license:             GPL-2
 license-file:        LICENSE
 author:              Cal Stepanian
 -- maintainer:          example@example.com
